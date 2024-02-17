@@ -27,7 +27,7 @@
 // RANDOM NUMBER GENERATOR: 
 // Write a function called generateRandomNumber that generates and returns a random number between 1 and 100. Call this function and display the generated random number on the webpage.
 
-// function generateRandomNumber(){
-//     console.log(Math.floor(Math.random() * 100) + 1);
-// }
-// generateRandomNumber()
+function generateRandomNumber(){
+    console.log(Math.floor(Math.random() * 100) );
+}
+generateRandomNumber()
